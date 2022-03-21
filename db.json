@@ -1,0 +1,214 @@
+{
+    "books" : [
+        {
+            "id" : 1,
+            "title":"Book A",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 1,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 2,
+            "title":"Book B",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 2,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 3,
+            "title":"Book C",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 3,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 4,
+            "title":"Book D",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 4,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 5,
+            "title":"Book E",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 5,
+            "section": "Technology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 6,
+            "title":"Book F",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 6,
+            "section": "Technology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 7,
+            "title":"Book G",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 7,
+            "section": "Technology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 8,
+            "title":"Book H",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 8,
+            "section": "Technology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 9,
+            "title":"Book I",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 9,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 10,
+            "title":"Book J",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 10,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 11,
+            "title":"Book K",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 11,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 12,
+            "title":"Book L",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 12,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 13,
+            "title":"Book M",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 13,
+            "section": "History",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 14,
+            "title":"Book N",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 14,
+            "section": "History",
+            "isbnNumber": 1234567
+         },
+        {
+            "id" : 15,
+            "title":"Book O",
+            "imageUrl":"https://artprojectsforkids.org/wp-content/uploads/2021/04/How-to-Draw-a-Book--768x591.jpg.webp",
+            "description":"Book desc",
+            "reviews":[
+                "review 1",
+                "review 2"
+            ],
+            "author":"Book Author",
+            "price": 15,
+            "section": "History",
+            "isbnNumber": 1234567
+         }
+    ]
+}

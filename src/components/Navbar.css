@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav > a{
+    padding: 7px;
+    border: 1px solid black;
+    background: khaki;
+}

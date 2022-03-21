@@ -1,0 +1,15 @@
+#section_container{
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+#section_container a{
+    border: 1px solid black;
+}
+
+#section_container img{
+    width: 100%;
+}
