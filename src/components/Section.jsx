@@ -9,25 +9,22 @@ export default function Section(){
 
     const [books, setBooks] = useState([]);
 
-    async function getBooks(){
+    async function getBooksAgain(){
         try{
             let res = await fetch("http://localhost:8080/books");
             let res_data = await res.json();
-            filterBooks(res_data);
+            let new_data = res_data.filter((book)=>{
+                return(book.section === cat);
+            });
+            console.log(new_data);
+            setBooks(new_data);
         }catch(error){
             console.log(error);
         }
     }
 
-    function filterBooks(data){
-        const new_data = data.filter((book)=>{
-            return(book.section === cat);
-        });
-        setBooks(new_data);
-    }
-
     useEffect(()=>{
-        getBooks();
+        getBooksAgain();
     },[]);
 
     return (
